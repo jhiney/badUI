@@ -19,6 +19,8 @@ namespace badUI
 		string[] operators;
 
 		string Operation;
+		
+		//This begins the form
 		public Form1()
 		{
 			InitializeComponent();
