@@ -11,6 +11,7 @@ namespace badUI
 		/// <summary>
 		/// The main entry point for the application.
 		/// </summary>
+		/// Testing this comment
 		[STAThread]
 		static void Main()
 		{
